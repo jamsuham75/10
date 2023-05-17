@@ -1,3 +1,5 @@
+const url = "mongodb+srv://admin:1111@cluster0.hmvwkf5.mongodb.net/?retryWrites=true&w=majority";
+
 const express = require('express');
 const app = express();
 
